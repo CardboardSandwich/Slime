@@ -116,6 +116,10 @@ loadSprite("SlimeG","Images/Slime.png", {
 })
 
 
+console.log("HELLO")
+
+
+
 
 
 scene("Title", ()=>{
@@ -132,7 +136,7 @@ scene("Title", ()=>{
     ])
 
     add([
-        text("(Insert Game Name)", 64),
+        text("Stab and Burn Slimes", 64),
         pos(width()/2, height()/3),
         anchor("center"),
         scale(3)
@@ -153,7 +157,7 @@ scene("Title", ()=>{
     })
 })
 
-let round = 15;
+let round = 1;
 let player_maxhealth = 10;
 let player_health = 10;
 let player_maxmana = 40;
