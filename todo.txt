@@ -1,0 +1,40 @@
+
+Important:
+-Bugs obviously
+-
+-
+
+Middle:
+-add cool effects
+-Maybe a boss? idk
+-Add game over stats (like enemies killed)
+-At a certain point, stop spawning weak enemies
+
+
+
+Minor:
+-maybe add a bg(maybe some fields or a forest)
+-Add stat display somewhere (exact numbers)
+
+Completed:
+-Player sprite+ m1
+-All enemy sprites done
+-Health+Mana (player/enemy)
+-Basic UI
+-Sounds (including music)
+-Title
+-Death screen
+-Waves/Rounds
+-Fire Ball (and mana cost/regen)
+-Make the shop be a shop
+-
+
+
+
+Bugs to Fix:
+-
+-
+-
+-
+-
+-
